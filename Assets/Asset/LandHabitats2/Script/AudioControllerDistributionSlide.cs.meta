@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63c47667861fe574a98c58506a13738a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - introVoiceOverClip: {fileID: 8300000, guid: d3939b70884cd0d43a82173b972f554f,
+      type: 3}
+  - voiceOverClip: {fileID: 8300000, guid: 06907b5c29f6f354bbf80c370b9bd1ce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

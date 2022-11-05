@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: ce1ba0e03525e424ba00945e53e25e14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2312506070425445381
+    second: Camel sprite_1_0
+  - first:
+      213: -5739008868542088138
+    second: Camel sprite_1_1
+  - first:
+      213: 7781210267717785204
+    second: Camel sprite_1_2
+  - first:
+      213: -2118586996795981583
+    second: Camel sprite_1_3
+  - first:
+      213: -2514881901791201684
+    second: Camel sprite_1_4
+  - first:
+      213: -8943829209891614975
+    second: Camel sprite_1_5
+  - first:
+      213: -2591448344772133207
+    second: Camel sprite_1_6
+  - first:
+      213: 2852304026451039780
+    second: Camel sprite_1_7
+  - first:
+      213: 5542143893738419285
+    second: Camel sprite_1_8
+  - first:
+      213: 2132674201077465923
+    second: Camel sprite_1_9
+  - first:
+      213: -5164485641703247454
+    second: Camel sprite_1_10
+  - first:
+      213: -3125542915541375524
+    second: Camel sprite_1_11
+  - first:
+      213: 558339062071669660
+    second: Camel sprite_1_12
+  - first:
+      213: -2963731228940794677
+    second: Camel sprite_1_13
+  - first:
+      213: -4398480429141014721
+    second: Camel sprite_1_14
+  - first:
+      213: 1559089972076688624
+    second: Camel sprite_1_15
+  - first:
+      213: 7914121936287886270
+    second: Camel sprite_1_16
+  - first:
+      213: 542062199713639249
+    second: Camel sprite_1_17
+  - first:
+      213: -6477894791974197917
+    second: Camel sprite_1_18
+  - first:
+      213: -8886895046727189915
+    second: Camel sprite_1_19
+  - first:
+      213: 1656772372703130538
+    second: Camel sprite_1_20
+  - first:
+      213: -6463478567254349446
+    second: Camel sprite_1_21
+  - first:
+      213: -2051902910372375730
+    second: Camel sprite_1_22
+  - first:
+      213: 5233411140608923642
+    second: Camel sprite_1_23
+  - first:
+      213: 1359016608708737009
+    second: Camel sprite_1_24
+  - first:
+      213: -1772513144283997153
+    second: Camel sprite_1_25
+  - first:
+      213: 1952429304024808117
+    second: Camel sprite_1_26
+  - first:
+      213: -2965642776269640133
+    second: Camel sprite_1_27
+  - first:
+      213: -3500923311977451295
+    second: Camel sprite_1_28
+  - first:
+      213: -7536629675678148421
+    second: Camel sprite_1_29
+  - first:
+      213: -7273710676910235885
+    second: Camel sprite_1_30
+  - first:
+      213: -4580482341751397314
+    second: Camel sprite_1_31
+  - first:
+      213: -8929607522385764575
+    second: Camel sprite_1_32
+  - first:
+      213: 1381495799245154732
+    second: Camel sprite_1_33
+  - first:
+      213: -1002188252395063285
+    second: Camel sprite_1_34
+  - first:
+      213: 3111512806465083581
+    second: Camel sprite_1_35
+  - first:
+      213: 8636380193219334139
+    second: Camel sprite_1_36
+  - first:
+      213: 5785537763150450052
+    second: Camel sprite_1_37
+  - first:
+      213: -8294389267733313215
+    second: Camel sprite_1_38
+  - first:
+      213: -7779800377583022524
+    second: Camel sprite_1_39
+  - first:
+      213: 4175295572173657403
+    second: Camel sprite_1_40
+  - first:
+      213: 1297530620584053094
+    second: Camel sprite_1_41
+  - first:
+      213: 6156769706112372705
+    second: Camel sprite_1_42
+  - first:
+      213: -6850681891440378605
+    second: Camel sprite_1_43
+  - first:
+      213: -2475725947588889101
+    second: Camel sprite_1_44
+  - first:
+      213: -4393016998747148548
+    second: Camel sprite_1_45
+  - first:
+      213: 6031349964656192457
+    second: Camel sprite_1_46
+  - first:
+      213: 6572713457984186838
+    second: Camel sprite_1_47
+  - first:
+      213: -1906296680750368761
+    second: Camel sprite_1_48
+  - first:
+      213: -1741782301706866380
+    second: Camel sprite_1_49
+  - first:
+      213: -3656321172131859600
+    second: Camel sprite_1_50
+  - first:
+      213: 4301691649827677938
+    second: Camel sprite_1_51
+  - first:
+      213: 7930396548061377631
+    second: Camel sprite_1_52
+  - first:
+      213: 6768007349123483775
+    second: Camel sprite_1_53
+  - first:
+      213: 7171592258650651908
+    second: Camel sprite_1_54
+  - first:
+      213: -5751743434565536967
+    second: Camel sprite_1_55
+  - first:
+      213: 4199172908401514803
+    second: Camel sprite_1_56
+  - first:
+      213: -4499773289442731374
+    second: Camel sprite_1_57
+  - first:
+      213: 3982040214478231810
+    second: Camel sprite_1_58
+  - first:
+      213: 1153983859135335847
+    second: Camel sprite_1_59
+  - first:
+      213: -8986459001717253780
+    second: Camel sprite_1_60
+  - first:
+      213: -4937557780028259473
+    second: Camel sprite_1_61
+  - first:
+      213: 7176154101091528578
+    second: Camel sprite_1_62
+  - first:
+      213: 4317008541782423449
+    second: Camel sprite_1_63
+  - first:
+      213: -5696385800739349369
+    second: Camel sprite_1_64
+  - first:
+      213: -4835371302820156796
+    second: Camel sprite_1_65
+  - first:
+      213: 8928954559818934201
+    second: Camel sprite_1_66
+  - first:
+      213: -3285109737359847884
+    second: Camel sprite_1_67
+  - first:
+      213: -3595530263692169083
+    second: Camel sprite_1_68
+  - first:
+      213: -6110002564265482247
+    second: Camel sprite_1_69
+  - first:
+      213: -1409822351699289339
+    second: Camel sprite_1_70
+  - first:
+      213: 5137650269207375920
+    second: Camel sprite_1_71
+  - first:
+      213: -7365737419930814280
+    second: Camel sprite_1_72
+  - first:
+      213: 7433322504161468853
+    second: Camel sprite_1_73
+  - first:
+      213: -590253396138862736
+    second: Camel sprite_1_74
+  - first:
+      213: -7502348133883818807
+    second: Camel sprite_1_75
+  - first:
+      213: 7926920829430553180
+    second: Camel sprite_1_76
+  - first:
+      213: -4620309235468696994
+    second: Camel sprite_1_77
+  - first:
+      213: 8033782350982551757
+    second: Camel sprite_1_78
+  - first:
+      213: -7655182317293592358
+    second: Camel sprite_1_79
+  - first:
+      213: 7135244452771962720
+    second: Camel sprite_1_80
+  - first:
+      213: 5461446744125291288
+    second: Camel sprite_1_81
+  - first:
+      213: 6795160612012742492
+    second: Camel sprite_1_82
+  - first:
+      213: 107242549694425056
+    second: Camel sprite_1_83
+  - first:
+      213: -7726444209054510343
+    second: Camel sprite_1_84
+  - first:
+      213: 837776683637680967
+    second: Camel sprite_1_85
+  - first:
+      213: -3634490560313172021
+    second: Camel sprite_1_86
+  - first:
+      213: -7980653025658396984
+    second: Camel sprite_1_87
+  - first:
+      213: 8139668517862920073
+    second: Camel sprite_1_88
+  - first:
+      213: 6580123922173727358
+    second: Camel sprite_1_89
+  - first:
+      213: -7514328870043793201
+    second: Camel sprite_1_90
+  - first:
+      213: -7135169738024152286
+    second: Camel sprite_1_91
+  - first:
+      213: 4192540001164539798
+    second: Camel sprite_1_92
+  - first:
+      213: 799434638826723375
+    second: Camel sprite_1_93
+  - first:
+      213: 5187499019413326829
+    second: Camel sprite_1_94
+  - first:
+      213: 7726419705583639059
+    second: Camel sprite_1_95
+  - first:
+      213: -6423157223326812487
+    second: Camel sprite_1_96
+  - first:
+      213: 9138944431239060619
+    second: Camel sprite_1_97
+  - first:
+      213: 617834517223476448
+    second: Camel sprite_1_98
+  - first:
+      213: 5194391202325823589
+    second: Camel sprite_1_99
+  - first:
+      213: -140296057369174330
+    second: Camel sprite_1_100
+  - first:
+      213: 7526530999357529134
+    second: Camel sprite_1_101
+  - first:
+      213: -2803918798164127343
+    second: Camel sprite_1_102
+  - first:
+      213: 2435304069176156521
+    second: Camel sprite_1_103
+  - first:
+      213: -7426445728763484530
+    second: Camel sprite_1_104
+  - first:
+      213: 2525768504751299631
+    second: Camel sprite_1_105
+  - first:
+      213: -5985974353381108451
+    second: Camel sprite_1_106
+  - first:
+      213: -4496290132120394917
+    second: Camel sprite_1_107
+  - first:
+      213: 7465394339462863893
+    second: Camel sprite_1_108
+  - first:
+      213: 4758313519429164344
+    second: Camel sprite_1_109
+  - first:
+      213: -534133080144976051
+    second: Camel sprite_1_110
+  - first:
+      213: 4535214538835477663
+    second: Camel sprite_1_111
+  - first:
+      213: 2107066948088865976
+    second: Camel sprite_1_112
+  - first:
+      213: 2657408132383782223
+    second: Camel sprite_1_113
+  - first:
+      213: -4406807359883082284
+    second: Camel sprite_1_114
+  - first:
+      213: 795914114089677382
+    second: Camel sprite_1_115
+  - first:
+      213: -7553935630237180733
+    second: Camel sprite_1_116
+  - first:
+      213: 5617250487134818000
+    second: Camel sprite_1_117
+  - first:
+      213: 6728686042699191201
+    second: Camel sprite_1_118
+  - first:
+      213: 1503349765663639601
+    second: Camel sprite_1_119
+  - first:
+      213: 7926861851394101927
+    second: Camel sprite_1_120
+  - first:
+      213: -8668672394227771791
+    second: Camel sprite_1_121
+  - first:
+      213: 5069287413810653746
+    second: Camel sprite_1_122
+  - first:
+      213: 2080055372774872274
+    second: Camel sprite_1_123
+  - first:
+      213: -4599226832039303767
+    second: Camel sprite_1_124
+  - first:
+      213: 1133098611008368918
+    second: Camel sprite_1_125
+  - first:
+      213: -1063963346263100288
+    second: Camel sprite_1_126
+  - first:
+      213: -3268831382285794738
+    second: Camel sprite_1_127
+  - first:
+      213: 4598442525194542989
+    second: Camel sprite_1_128
+  - first:
+      213: 2051376020818191335
+    second: Camel sprite_1_129
+  - first:
+      213: 3526283185960623066
+    second: Camel sprite_1_130
+  - first:
+      213: -7847987640811433860
+    second: Camel sprite_1_131
+  - first:
+      213: -4586491961355670195
+    second: Camel sprite_1_132
+  - first:
+      213: -1091496911471307522
+    second: Camel sprite_1_133
+  - first:
+      213: 6868295553245677626
+    second: Camel sprite_1_134
+  - first:
+      213: 3517489394828590985
+    second: Camel sprite_1_135
+  - first:
+      213: 3866666968821113595
+    second: Camel sprite_1_136
+  - first:
+      213: 6494262544573238966
+    second: Camel sprite_1_137
+  - first:
+      213: 7181768471105374051
+    second: Camel sprite_1_138
+  - first:
+      213: -2515595342104523673
+    second: Camel sprite_1_139
+  - first:
+      213: 5289123800921921576
+    second: Camel sprite_1_140
+  - first:
+      213: -7787209994641664502
+    second: Camel sprite_1_141
+  - first:
+      213: 341912589381479819
+    second: Camel sprite_1_142
+  - first:
+      213: -4766813942841644633
+    second: Camel sprite_1_143
+  - first:
+      213: 8269200758130758840
+    second: Camel sprite_1_144
+  - first:
+      213: -2700326398501622024
+    second: Camel sprite_1_145
+  - first:
+      213: 3741389269962712193
+    second: Camel sprite_1_146
+  - first:
+      213: 3507057751251470474
+    second: Camel sprite_1_147
+  - first:
+      213: -7047692354626416417
+    second: Camel sprite_1_148
+  - first:
+      213: -6735645153342825734
+    second: Camel sprite_1_149
+  - first:
+      213: -123174828840664154
+    second: Camel sprite_1_150
+  - first:
+      213: 594870336058296796
+    second: Camel sprite_1_151
+  - first:
+      213: -1776730585896826992
+    second: Camel sprite_1_152
+  - first:
+      213: 6154984934122341600
+    second: Camel sprite_1_153
+  - first:
+      213: -7127502645610428365
+    second: Camel sprite_1_154
+  - first:
+      213: 5890563676025540612
+    second: Camel sprite_1_155
+  - first:
+      213: 1672981833283905650
+    second: Camel sprite_1_156
+  - first:
+      213: 835139485830741562
+    second: Camel sprite_1_157
+  - first:
+      213: -7582024562995500441
+    second: Camel sprite_1_158
+  - first:
+      213: 8961600679907281779
+    second: Camel sprite_1_159
+  - first:
+      213: 934781563605715864
+    second: Camel sprite_1_160
+  - first:
+      213: -9137908775616113599
+    second: Camel sprite_1_161
+  - first:
+      213: -6436702658488260692
+    second: Camel sprite_1_162
+  - first:
+      213: 4668115959744103687
+    second: Camel sprite_1_163
+  - first:
+      213: 5614956697290868321
+    second: Camel sprite_1_164
+  - first:
+      213: -4278631609857782500
+    second: Camel sprite_1_165
+  - first:
+      213: 7187470370103822755
+    second: Camel sprite_1_166
+  - first:
+      213: 4617318056706160796
+    second: Camel sprite_1_167
+  - first:
+      213: -6054174404627424277
+    second: Camel sprite_1_168
+  - first:
+      213: 5063793871286141083
+    second: Camel sprite_1_169
+  - first:
+      213: 7822756333534058722
+    second: Camel sprite_1_170
+  - first:
+      213: -1576927068967872468
+    second: Camel sprite_1_171
+  - first:
+      213: -8718577723624326214
+    second: Camel sprite_1_172
+  - first:
+      213: -7974839101198256134
+    second: Camel sprite_1_173
+  - first:
+      213: -4589930728748951116
+    second: Camel sprite_1_174
+  - first:
+      213: -7595618596293377167
+    second: Camel sprite_1_175
+  - first:
+      213: -1937712507530745117
+    second: Camel sprite_1_176
+  - first:
+      213: 3545178411233877239
+    second: Camel sprite_1_177
+  - first:
+      213: 2576009675542113694
+    second: Camel sprite_1_178
+  - first:
+      213: -5702063762477807278
+    second: Camel sprite_1_179
+  - first:
+      213: -2565046595607301641
+    second: Camel sprite_1_180
+  - first:
+      213: -197943396261278238
+    second: Camel sprite_1_181
+  - first:
+      213: 2221520291200957320
+    second: Camel sprite_1_182
+  - first:
+      213: -2085362160182244708
+    second: Camel sprite_1_183
+  - first:
+      213: -783875098432943457
+    second: Camel sprite_1_184
+  - first:
+      213: 5034317342726233817
+    second: Camel sprite_1_185
+  - first:
+      213: -6805096283100906140
+    second: Camel sprite_1_186
+  - first:
+      213: 5151388789172986822
+    second: Camel sprite_1_187
+  - first:
+      213: -5572244328500157276
+    second: Camel sprite_1_188
+  - first:
+      213: -5698805398204324595
+    second: Camel sprite_1_189
+  - first:
+      213: -3799642465484261781
+    second: Camel sprite_1_190
+  - first:
+      213: 2575196980249697088
+    second: Camel sprite_1_191
+  - first:
+      213: 7020970948076897270
+    second: Camel sprite_1_192
+  - first:
+      213: 6586650715772316249
+    second: Camel sprite_1_193
+  - first:
+      213: 8111478537794396199
+    second: Camel sprite_1_194
+  - first:
+      213: -1786936365304740262
+    second: Camel sprite_1_195
+  - first:
+      213: 6476295672154126740
+    second: Camel sprite_1_196
+  - first:
+      213: -7052954004921086669
+    second: Camel sprite_1_197
+  - first:
+      213: -1278664191538464625
+    second: Camel sprite_1_198
+  - first:
+      213: -7256724055325605181
+    second: Camel sprite_1_199
+  - first:
+      213: -4316057204287365786
+    second: Camel sprite_1_200
+  - first:
+      213: -67857179634650347
+    second: Camel sprite_1_201
+  - first:
+      213: 8772857202172203254
+    second: Camel sprite_1_202
+  - first:
+      213: -3700181951673493706
+    second: Camel sprite_1_203
+  - first:
+      213: -3160126991894295534
+    second: Camel sprite_1_204
+  - first:
+      213: -7032612367204555025
+    second: Camel sprite_1_205
+  - first:
+      213: 2606211417911287508
+    second: Camel sprite_1_206
+  - first:
+      213: -773107965169759656
+    second: Camel sprite_1_207
+  - first:
+      213: -3923322041623117119
+    second: Camel sprite_1_208
+  - first:
+      213: -5620237176838784899
+    second: Camel sprite_1_209
+  - first:
+      213: -6108920867469012079
+    second: Camel sprite_1_210
+  - first:
+      213: 7607609918040352948
+    second: Camel sprite_1_211
+  - first:
+      213: -5538346104712502074
+    second: Camel sprite_1_212
+  - first:
+      213: 3764830716252985524
+    second: Camel sprite_1_213
+  - first:
+      213: 2330248009214951337
+    second: Camel sprite_1_214
+  - first:
+      213: 781791381776417429
+    second: Camel sprite_1_215
+  - first:
+      213: -5836733631236692907
+    second: Camel sprite_1_216
+  - first:
+      213: 4930820506937035993
+    second: Camel sprite_1_217
+  - first:
+      213: 3781655012247801043
+    second: Camel sprite_1_218
+  - first:
+      213: 2306570277240142659
+    second: Camel sprite_1_219
+  - first:
+      213: -2749436754857099848
+    second: Camel sprite_1_220
+  - first:
+      213: 6858336532506741373
+    second: Camel sprite_1_221
+  - first:
+      213: -6252781395283272502
+    second: Camel sprite_1_222
+  - first:
+      213: -5440799998733657108
+    second: Camel sprite_1_223
+  - first:
+      213: -2167445337750201355
+    second: Camel sprite_1_224
+  - first:
+      213: 2282467808496619967
+    second: Camel sprite_1_225
+  - first:
+      213: 509456031722587673
+    second: Camel sprite_1_226
+  - first:
+      213: -492899217915601802
+    second: Camel sprite_1_227
+  - first:
+      213: 2405100216482811213
+    second: Camel sprite_1_228
+  - first:
+      213: 5990859762719355541
+    second: Camel sprite_1_229
+  - first:
+      213: 6083694990379270528
+    second: Camel sprite_1_230
+  - first:
+      213: -2334157410908071573
+    second: Camel sprite_1_231
+  - first:
+      213: 1050705127431468692
+    second: Camel sprite_1_232
+  - first:
+      213: -3690586059037200985
+    second: Camel sprite_1_233
+  - first:
+      213: 4796270576469564426
+    second: Camel sprite_1_234
+  - first:
+      213: 1195863293122750840
+    second: Camel sprite_1_235
+  - first:
+      213: 7234155277320333721
+    second: Camel sprite_1_236
+  - first:
+      213: 1370856532433512532
+    second: Camel sprite_1_237
+  - first:
+      213: 1267130397938149555
+    second: Camel sprite_1_238
+  - first:
+      213: -6656876240175398059
+    second: Camel sprite_1_239
+  - first:
+      213: 5836558427842267366
+    second: Camel sprite_1_240
+  - first:
+      213: 1891924680321834132
+    second: Camel sprite_1_241
+  - first:
+      213: -7722024833222341138
+    second: Camel sprite_1_242
+  - first:
+      213: 1750422713329807759
+    second: Camel sprite_1_243
+  - first:
+      213: -7085668819037992007
+    second: Camel sprite_1_244
+  - first:
+      213: 6407690272004216655
+    second: Camel sprite_1_245
+  - first:
+      213: -7865594420360016914
+    second: Camel sprite_1_246
+  - first:
+      213: -2957468920761737041
+    second: Camel sprite_1_247
+  - first:
+      213: 8614330355108451466
+    second: Camel sprite_1_248
+  - first:
+      213: -5607457357237398051
+    second: Camel sprite_1_249
+  - first:
+      213: 3405238120690264423
+    second: Camel sprite_1_250
+  - first:
+      213: -8508869842554251327
+    second: Camel sprite_1_251
+  - first:
+      213: -4046875491898252599
+    second: Camel sprite_1_252
+  - first:
+      213: 7596628942892740356
+    second: Camel sprite_1_253
+  - first:
+      213: -7395214605698208405
+    second: Camel sprite_1_254
+  - first:
+      213: 4470194518797999246
+    second: Camel sprite_1_255
+  - first:
+      213: -3705092737995600526
+    second: Camel sprite_1_256
+  - first:
+      213: -7535934237390230739
+    second: Camel sprite_1_257
+  - first:
+      213: 1429540665149641799
+    second: Camel sprite_1_258
+  - first:
+      213: -2127742080371082316
+    second: Camel sprite_1_259
+  - first:
+      213: -8496905620288541555
+    second: Camel sprite_1_260
+  - first:
+      213: 3193107822712121735
+    second: Camel sprite_1_261
+  - first:
+      213: -5932713601924701628
+    second: Camel sprite_1_262
+  - first:
+      213: -3956017041607779842
+    second: Camel sprite_1_263
+  - first:
+      213: -8395566064154011530
+    second: Camel sprite_1_264
+  - first:
+      213: 3991061868184373615
+    second: Camel sprite_1_265
+  - first:
+      213: -4993669060319846289
+    second: Camel sprite_1_266
+  - first:
+      213: 7418092847837527455
+    second: Camel sprite_1_267
+  - first:
+      213: -2817078126281352481
+    second: Camel sprite_1_268
+  - first:
+      213: -9049612708937969810
+    second: Camel sprite_1_269
+  - first:
+      213: 8514886358615620109
+    second: Camel sprite_1_270
+  - first:
+      213: -2991481121429339179
+    second: Camel sprite_1_271
+  - first:
+      213: -939374788882965959
+    second: Camel sprite_1_272
+  - first:
+      213: -4654437770689389834
+    second: Camel sprite_1_273
+  - first:
+      213: -3180363581597531291
+    second: Camel sprite_1_274
+  - first:
+      213: -5829697908200249211
+    second: Camel sprite_1_275
+  - first:
+      213: 6828008371966725666
+    second: Camel sprite_1_276
+  - first:
+      213: -4576066263783481115
+    second: Camel sprite_1_277
+  - first:
+      213: -3367007185442171487
+    second: Camel sprite_1_278
+  - first:
+      213: 6922946170312715428
+    second: Camel sprite_1_279
+  - first:
+      213: -2584809170443653569
+    second: Camel sprite_1_280
+  - first:
+      213: -2416571613600322020
+    second: Camel sprite_1_281
+  - first:
+      213: 3968261967116396390
+    second: Camel sprite_1_282
+  - first:
+      213: 2999528562074615448
+    second: Camel sprite_1_283
+  - first:
+      213: 8216557515963111353
+    second: Camel sprite_1_284
+  - first:
+      213: -8599004671407392861
+    second: Camel sprite_1_285
+  - first:
+      213: -7659608433450140671
+    second: Camel sprite_1_286
+  - first:
+      213: -8026515273129027037
+    second: Camel sprite_1_287
+  - first:
+      213: -7319979377034180568
+    second: Camel sprite_1_288
+  - first:
+      213: 2552574142601545247
+    second: Camel sprite_1_289
+  - first:
+      213: -2232612800699716385
+    second: Camel sprite_1_290
+  - first:
+      213: -7242340836366395431
+    second: Camel sprite_1_291
+  - first:
+      213: -3752355784764310299
+    second: Camel sprite_1_292
+  - first:
+      213: 6306961717864542613
+    second: Camel sprite_1_293
+  - first:
+      213: -5954846174632860272
+    second: Camel sprite_1_294
+  - first:
+      213: 5291914235204684520
+    second: Camel sprite_1_295
+  - first:
+      213: 6938366968835805421
+    second: Camel sprite_1_296
+  - first:
+      213: 8605102563649171793
+    second: Camel sprite_1_297
+  - first:
+      213: 7932067777406964946
+    second: Camel sprite_1_298
+  - first:
+      213: -1444600278083421487
+    second: Camel sprite_1_299
+  - first:
+      213: -2004708820241348694
+    second: Camel sprite_1_300
+  - first:
+      213: 5410977004424931598
+    second: Camel sprite_1_301
+  - first:
+      213: 6516507918623002772
+    second: Camel sprite_1_302
+  - first:
+      213: -1211225211439033394
+    second: Camel sprite_1_303
+  - first:
+      213: -7177385526581378419
+    second: Camel sprite_1_304
+  - first:
+      213: 3006092470192120104
+    second: Camel sprite_1_305
+  - first:
+      213: -116898487099271929
+    second: Camel sprite_1_306
+  - first:
+      213: -7200903940578004287
+    second: Camel sprite_1_307
+  - first:
+      213: 2858899849442871398
+    second: Camel sprite_1_308
+  - first:
+      213: -8541921717340050242
+    second: Camel sprite_1_309
+  - first:
+      213: -7254368306811657156
+    second: Camel sprite_1_310
+  - first:
+      213: 5316494039156638269
+    second: Camel sprite_1_311
+  - first:
+      213: -2045065342516237940
+    second: Camel sprite_1_312
+  - first:
+      213: -4158738783009768269
+    second: Camel sprite_1_313
+  - first:
+      213: 1594511486620646448
+    second: Camel sprite_1_314
+  - first:
+      213: -7816267826809509480
+    second: Camel sprite_1_315
+  - first:
+      213: 7548018913775117374
+    second: Camel sprite_1_316
+  - first:
+      213: -3229213537605417644
+    second: Camel sprite_1_317
+  - first:
+      213: 4753678367321508957
+    second: Camel sprite_1_318
+  - first:
+      213: -3237881147341813131
+    second: Camel sprite_1_319
+  - first:
+      213: 4901305704983740268
+    second: Camel sprite_1_320
+  - first:
+      213: 8544337991681773329
+    second: Camel sprite_1_321
+  - first:
+      213: 830680395288467583
+    second: Camel sprite_1_322
+  - first:
+      213: 6519155162612934799
+    second: Camel sprite_1_323
+  - first:
+      213: 684817073927278717
+    second: Camel sprite_1_324
+  - first:
+      213: -5825576012873697680
+    second: Camel sprite_1_325
+  - first:
+      213: 1791713752281583643
+    second: Camel sprite_1_326
+  - first:
+      213: -2863687498694254958
+    second: Camel sprite_1_327
+  - first:
+      213: 1435109486778841462
+    second: Camel sprite_1_328
+  - first:
+      213: -4905826985106484020
+    second: Camel sprite_1_329
+  - first:
+      213: -4920997451356462386
+    second: Camel sprite_1_330
+  - first:
+      213: 5024433905067483392
+    second: Camel sprite_1_331
+  - first:
+      213: 1626619460914372431
+    second: Camel sprite_1_332
+  - first:
+      213: 7606997368904494067
+    second: Camel sprite_1_333
+  - first:
+      213: 527691030618585672
+    second: Camel sprite_1_334
+  - first:
+      213: -3445175349394011851
+    second: Camel sprite_1_335
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Camel sprite_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1365.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb5b5b2bf358efd0800000000000000
+      internalID: -2312506070425445381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel sprite_1_1
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1365.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c7bb337d1fa50b0800000000000000
+      internalID: -5739008868542088138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel sprite_1_2
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1365.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476d0f903896cfb60800000000000000
+      internalID: 7781210267717785204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel sprite_1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0c636e9544992e0800000000000000
+      internalID: -2118586996795981583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel sprite_1_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 683.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c663da71c38591dd0800000000000000
+      internalID: -2514881901791201684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel sprite_1_5
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 683.3333
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc5a458b221e380800000000000000
+      internalID: -8943829209891614975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel sprite_1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae3514e573590cd0800000000000000
+      internalID: -2591448344772133207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel sprite_1_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d700666b659720800000000000000
+      internalID: 2852304026451039780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel sprite_1_8
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1.333313
+        width: 682.6667
+        height: 682.6667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f0600286a9ec40800000000000000
+      internalID: 5542143893738419285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: 3221059d10b3c594c80b2ba7740b98b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5199693806484859387
+    second: Polar_Activity_0
+  - first:
+      213: 3254991156964365
+    second: Polar_Activity_1
+  - first:
+      213: 1991322212329105171
+    second: Polar_Activity_2
+  - first:
+      213: -8265794090553590990
+    second: Polar_Activity_3
+  - first:
+      213: -8270742778411081038
+    second: Polar_Activity_4
+  - first:
+      213: 9074704985906821955
+    second: Polar_Activity_5
+  - first:
+      213: 7123844072848268013
+    second: Polar_Activity_6
+  - first:
+      213: 6344470206128123452
+    second: Polar_Activity_7
+  - first:
+      213: 9032948843167720709
+    second: Polar_Activity_8
+  - first:
+      213: 7611299667245268339
+    second: Polar_Activity_9
+  - first:
+      213: 7008080479894319490
+    second: Polar_Activity_10
+  - first:
+      213: 3075298322307231907
+    second: Polar_Activity_11
+  - first:
+      213: -7091083713006952555
+    second: Polar_Activity_12
+  - first:
+      213: -7402382956846473110
+    second: Polar_Activity_13
+  - first:
+      213: 2406392437257035114
+    second: Polar_Activity_14
+  - first:
+      213: -3043303066765160089
+    second: Polar_Activity_15
+  - first:
+      213: 1780844434534444933
+    second: Polar_Activity_16
+  - first:
+      213: -3228165947360813218
+    second: Polar_Activity_17
+  - first:
+      213: -2987178296074396903
+    second: Polar_Activity_18
+  - first:
+      213: -5048187322642499939
+    second: Polar_Activity_19
+  - first:
+      213: 6524779610810959355
+    second: Polar_Activity_20
+  - first:
+      213: 5322404194853191216
+    second: Polar_Activity_21
+  - first:
+      213: 7057580955627197799
+    second: Polar_Activity_22
+  - first:
+      213: -9013685086257964050
+    second: Polar_Activity_23
+  - first:
+      213: -4872574495591883242
+    second: Polar_Activity_24
+  - first:
+      213: -2577656917109718794
+    second: Polar_Activity_25
+  - first:
+      213: 8463888946664012478
+    second: Polar_Activity_26
+  - first:
+      213: -8313225592600919636
+    second: Polar_Activity_27
+  - first:
+      213: 5954114790461546137
+    second: Polar_Activity_28
+  - first:
+      213: 4285223409798335913
+    second: Polar_Activity_29
+  - first:
+      213: -1288358643134448818
+    second: Polar_Activity_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Polar_Activity_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1930
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92454c7f5092840800000000000000
+      internalID: 5199693806484859387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1910
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c68afa5609b0000800000000000000
+      internalID: 3254991156964365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1867
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317a83b600992ab10800000000000000
+      internalID: 1991322212329105171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_3
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1916
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bb70691100a4d80800000000000000
+      internalID: -8265794090553590990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1918
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b22e28634b683d80800000000000000
+      internalID: -8270742778411081038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_5
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1719
+        width: 656
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b3176da14dfed70800000000000000
+      internalID: 9074704985906821955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1906
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea9465c07afcd260800000000000000
+      internalID: 7123844072848268013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1905
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ee05cb9061c0850800000000000000
+      internalID: 6344470206128123452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1911
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505a94f3d1b7b5d70800000000000000
+      internalID: 9032948843167720709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_9
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1881
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df33198b4c0a960800000000000000
+      internalID: 7611299667245268339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_10
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1863
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813379e014b14160800000000000000
+      internalID: 7008080479894319490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_11
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1879
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03a7fc787adaa20800000000000000
+      internalID: 3075298322307231907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1818
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f99a5eee8679d90800000000000000
+      internalID: -7091083713006952555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1836
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60a2c59be3754990800000000000000
+      internalID: -7402382956846473110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1811
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d54ec0c29356120800000000000000
+      internalID: 2406392437257035114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1813
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7611b912cf304c5d0800000000000000
+      internalID: -3043303066765160089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1800
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f28a0f394d6b810800000000000000
+      internalID: 1780844434534444933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1759
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fdb87ac204333d0800000000000000
+      internalID: -3228165947360813218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_18
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1774
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b9abd9a296b86d0800000000000000
+      internalID: -2987178296074396903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1726
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d967342606c31f9b0800000000000000
+      internalID: -5048187322642499939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_20
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1742
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5491c7c7cac8a50800000000000000
+      internalID: 6524779610810959355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_21
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1586
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ef5497a6afcd940800000000000000
+      internalID: 5322404194853191216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1504
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76598b98c7091f160800000000000000
+      internalID: 7057580955627197799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1550
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb9b5cab25f8e280800000000000000
+      internalID: -9013685086257964050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1505
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1e90ff43216cb0800000000000000
+      internalID: -4872574495591883242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_25
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1504
+        width: 125
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c8ded0b25a3cd0800000000000000
+      internalID: -2577656917109718794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1531
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba73444726c57570800000000000000
+      internalID: 8463888946664012478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 719
+        width: 731
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1065f6e5d71ac80800000000000000
+      internalID: -8313225592600919636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Activity_28
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1272
+        width: 705
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e1c5d0bd341a250800000000000000
+      internalID: 5954114790461546137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
