@@ -37,6 +37,7 @@ namespace DesertHabitat
 
         public void ShowCharacteristics()
         {
+            AudioManager.Instance.EffectsSource.Stop();
             desertMain.SetActive(false);
             characteristics.SetActive(true);
             map.SetActive(false);
@@ -47,6 +48,7 @@ namespace DesertHabitat
 
         public void ShowMap()
         {
+            AudioManager.Instance.EffectsSource.Stop();
             desertMain.SetActive(false);
             characteristics.SetActive(false);
             map.SetActive(true);
@@ -56,6 +58,7 @@ namespace DesertHabitat
 
         public void ShowTypesOfAnimals()
         {
+            AudioManager.Instance.EffectsSource.Stop();
             desertMain.SetActive(false);
             characteristics.SetActive(false);
             map.SetActive(false);

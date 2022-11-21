@@ -14,7 +14,7 @@ public class LionCheetahController : MonoBehaviour
     [SerializeField] private Button playPauseButton;
     [SerializeField] private Button restartButton;
 
-    private bool isDescPlaying = false;
+    private bool isDescPlaying = true;
 
 
     public void PlayPauseDesc()

@@ -45,4 +45,9 @@ public class AudioManager : MonoSingletonGeneric<AudioManager>
         MusicSource.Stop();
     }
 
+    public void StopVoice()
+    {
+        EffectsSource.Stop();
+    }
+
 }

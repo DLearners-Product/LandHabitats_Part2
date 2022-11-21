@@ -1,5 +1,6 @@
 ﻿using TMPro;
 using UnityEngine;
+using UnityEngine.PlayerLoop;
 using UnityEngine.UI;
 
 public class CharacteristicsMainController : MonoBehaviour
@@ -19,6 +20,14 @@ public class CharacteristicsMainController : MonoBehaviour
 
     private bool isDesc1Playing = true;
 
+    public void Update()
+    {
+        if (!AudioManager.Instance.EffectsSource.isPlaying)
+        {
+            playPauseButton.GetComponent<Image>().sprite = playButtonSprite;
+            isDesc1Playing = true;
+        }
+    }
 
     public void PlayPauseDesc1()
     {

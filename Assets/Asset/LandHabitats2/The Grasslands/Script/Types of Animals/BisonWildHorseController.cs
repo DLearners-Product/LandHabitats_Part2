@@ -23,7 +23,7 @@ public class BisonWildHorseController : MonoBehaviour
     [SerializeField] private Button nextArrow;
 
     private int i = 0;
-    private bool isDescPlaying = false;
+    private bool isDescPlaying = true;
 
     public void PlayPauseDesc()
     {

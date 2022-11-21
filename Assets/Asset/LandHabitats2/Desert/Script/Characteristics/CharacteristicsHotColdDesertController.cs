@@ -17,6 +17,13 @@ public class CharacteristicsHotColdDesertController : MonoBehaviour
     private bool isDesc1Playing = true;
     private float currentClipPos = 0;
 
+    private void Update()
+    {
+        if (!AudioManager.Instance.EffectsSource.isPlaying)
+        {
+            playPauseButton.GetComponent<Image>().sprite = playButtonSprite;
+        }
+    }
 
     public void PlayPauseDesc1()
     {
