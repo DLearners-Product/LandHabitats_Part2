@@ -22,6 +22,7 @@ namespace DesertHabitat
             Invoke("PlayDesert", 3f);
         }
 
+        //home button
         public void ShowDesertMain()
         {
             desertMain.SetActive(true);
@@ -33,6 +34,8 @@ namespace DesertHabitat
                         AudioManager.Instance.EffectsSource.Stop();*/
 
             homeButton.gameObject.SetActive(false);
+
+            AudioManager.Instance.StopVoice();
         }
 
         public void ShowCharacteristics()
